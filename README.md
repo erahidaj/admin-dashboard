@@ -18,31 +18,13 @@
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img 
-    src="./screenshots/login-page.jpeg"
-    alt="Login Page"
-    width="44%"
-  />
-
-  <img 
-    src="./screenshots/register-page.jpeg"
-    alt="Register Page"
-    width="44%"
-  />
+  <img src="./screenshots/login-page.jpeg" width="45%" />
+  <img src="./screenshots/register-page.jpeg" width="45%" />
 </p>
 
 <p align="center">
-  <img 
-    src="./screenshots/dashboard-overview.jpeg"
-    alt="Dashboard Overview"
-    width="44%"
-  />
-
-  <img 
-    src="./screenshots/components-showcase.jpeg"
-    alt="Components Showcase"
-    width="44%"
-  />
+  <img src="./screenshots/dashboard-overview.jpeg" width="45%" />
+  <img src="./screenshots/components-showcase.jpeg" width="45%" />
 </p>
 
 ---
