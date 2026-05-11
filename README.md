@@ -15,35 +15,35 @@
 
 ---
 
-<p align="center">
-  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="100%" />
-</p>
-
----
-
 ## 📸 Project Screenshots
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./screenshots/login-page.png" alt="Login Page" width="100%" />
-    </td>
+<p align="center">
+  <img 
+    src="./screenshots/login-page.jpeg"
+    alt="Login Page"
+    width="44%"
+  />
 
-    <td width="50%">
-      <img src="./screenshots/register-page.png" alt="Register Page" width="100%" />
-    </td>
-  </tr>
+  <img 
+    src="./screenshots/register-page.jpeg"
+    alt="Register Page"
+    width="44%"
+  />
+</p>
 
-  <tr>
-    <td width="50%">
-      <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="100%" />
-    </td>
+<p align="center">
+  <img 
+    src="./screenshots/dashboard-overview.jpeg"
+    alt="Dashboard Overview"
+    width="44%"
+  />
 
-    <td width="50%">
-      <img src="./screenshots/components-showcase.png" alt="Components Showcase" width="100%" />
-    </td>
-  </tr>
-</table>
+  <img 
+    src="./screenshots/components-showcase.jpeg"
+    alt="Components Showcase"
+    width="44%"
+  />
+</p>
 
 ---
 
@@ -199,5 +199,3 @@ https://github.com/EraCodeX
 This project is licensed under the **MIT License**.
 
 See the `LICENSE` file for more details.
-
-
