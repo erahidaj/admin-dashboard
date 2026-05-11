@@ -13,9 +13,40 @@
   <a href="https://vitejs.dev/">Vite</a>
 </p>
 
+<p align="center">
+  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="100%" />
+</p>
+
+<hr />
+
+<h2>📸 Project Screenshots</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/login-page.png" alt="Login Page" width="100%" />
+    </td>
+
+    <td width="50%">
+      <img src="./screenshots/register-page.png" alt="Register Page" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="100%" />
+    </td>
+
+    <td width="50%">
+      <img src="./screenshots/components-showcase.png" alt="Components Showcase" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <hr />
 
 <h2>✨ Features</h2>
+
 <ul>
   <li>Fully responsive layout (mobile, tablet, desktop)</li>
   <li>Reusable, modular component architecture</li>
@@ -27,7 +58,10 @@
   <li>Ready for API integration</li>
 </ul>
 
+<hr />
+
 <h2>🧰 Tech Stack</h2>
+
 <ul>
   <li><a href="https://react.dev/">React</a></li>
   <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
@@ -37,38 +71,73 @@
   <li><a href="https://vitejs.dev/">Vite</a></li>
 </ul>
 
+<hr />
+
 <h2>📦 Installation</h2>
 
 <ol>
   <li>
     Clone the repository:
-    <pre><code>git clone https://github.com/mdskrumi/react-dashboard-template.git</code></pre>
+
+```bash
+git clone https://github.com/EraCodeX/react-admin-dashboard.git
+```
+
   </li>
+
   <li>
     Install dependencies:
-    <pre><code>npm install</code></pre>
-    <p>or</p>
-    <pre><code>yarn</code></pre>
+
+```bash
+npm install
+```
+
+<p>or</p>
+
+```bash
+yarn
+```
+
   </li>
+
   <li>
     Start the development server:
-    <pre><code>npm run dev</code></pre>
-    <p>or</p>
-    <pre><code>yarn dev</code></pre>
+
+```bash
+npm run dev
+```
+
+<p>or</p>
+
+```bash
+yarn dev
+```
+
   </li>
 </ol>
 
 <p>The application will be available at:</p>
-<pre><code>http://localhost:3000</code></pre>
+
+```bash
+http://localhost:3000
+```
+
+<hr />
 
 <h2>🔑 Environment Variables</h2>
+
 <p>Create a <code>.env</code> file in the project root:</p>
 
-<pre><code>DASHBOARD_API=http://localhost:3001/api</code></pre>
+```env
+DASHBOARD_API=http://localhost:3001/api
+```
+
+<hr />
 
 <h2>📁 Folder Structure</h2>
 
-<pre><code>src
+```bash
+src
 ├── assets
 ├── components
 ├── data
@@ -84,19 +153,54 @@
 ├── App.tsx
 ├── index.css
 └── main.tsx
-</code></pre>
+```
 
+<hr />
+
+<h2>🎨 UI Highlights</h2>
+
+<ul>
+  <li>Modern dashboard interface</li>
+  <li>Authentication pages</li>
+  <li>Reusable button system</li>
+  <li>Dropdown components</li>
+  <li>Responsive sidebar navigation</li>
+  <li>Custom loading spinners</li>
+  <li>Scalable component structure</li>
+</ul>
+
+<hr />
+
+<h2>⚡ Performance</h2>
+
+<ul>
+  <li>Optimized rendering architecture</li>
+  <li>Reusable component patterns</li>
+  <li>Fast development workflow with Vite</li>
+  <li>Clean separation of concerns</li>
+  <li>Scalable project structure</li>
+</ul>
+
+<hr />
 
 <h2>👩‍💻 Author</h2>
-<p>
-  <b>Era Hidaj</b> — Frontend Engineer <br />
 
-  GitHub: <a href="https://github.com/EraCodeX">github.com/EraCodeX</a>
+<p>
+  <b>Era Hidaj</b> — Frontend Engineer <br /><br />
+
+  GitHub:
+  <a href="https://github.com/EraCodeX">
+    github.com/EraCodeX
+  </a>
 </p>
 
+<hr />
+
 <h2>📄 License</h2>
+
 <p>
-  This project is licensed under the <b>MIT License</b>. See the <code>LICENSE</code> file for details.
+  This project is licensed under the <b>MIT License</b>.
+  See the <code>LICENSE</code> file for details.
 </p>
 
 
