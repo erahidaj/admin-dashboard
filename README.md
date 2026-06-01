@@ -63,7 +63,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/EraCodeX/admin-dashboard.git
+git clone https://github.com/erahidaj/admin-dashboard.git
 ```
 
 ---
