@@ -1,4 +1,5 @@
-<h1 align="center">🚀 React Admin Dashboard</h1>
+
+<h1 align="center">🚀 Admin Dashboard</h1>
 
 <p align="center">
   A modern, scalable, and fully responsive dashboard template built with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.
@@ -62,7 +63,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/EraCodeX/react-admin-dashboard.git
+git clone https://github.com/EraCodeX/admin-dashboard.git
 ```
 
 ---
@@ -70,7 +71,7 @@ git clone https://github.com/EraCodeX/react-admin-dashboard.git
 ### Navigate to the project
 
 ```bash
-cd react-admin-dashboard
+cd admin-dashboard
 ```
 
 ---
