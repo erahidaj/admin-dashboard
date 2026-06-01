@@ -173,7 +173,7 @@ src
 ### Era Hidaj — Frontend Engineer
 
 GitHub:  
-https://github.com/EraCodeX
+https://github.com/erahidaj
 
 ---
 
